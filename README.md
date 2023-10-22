@@ -13,7 +13,7 @@
 - Regular expressions for text processing.
 - Numeric data types in Python (int, float).
  
-## Day 3: Variables
+## Day 3: Keywords and Variables
 - Understanding variables in Python.
 - Variable scope and lifetime.
 - Variable naming conventions and best practices.
