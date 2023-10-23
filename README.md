@@ -7,13 +7,13 @@
 - Installing Python and setting up a development environment.
 - Writing your first Python program.
 
-## Day 2: Working with Strings and Numbers
+## Day 2: Intro to Datatypes, Working with Strings and Numbers
 - String data type in Python.
 - String manipulation and formatting.
 - Regular expressions for text processing.
 - Numeric data types in Python (int, float).
  
-## Day 3: Variables
+## Day 3: Keywords and Variables
 - Understanding variables in Python.
 - Variable scope and lifetime.
 - Variable naming conventions and best practices.
