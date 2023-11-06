@@ -43,7 +43,6 @@
 ## Day 7: Conditional Handling using if, elif and else
 - Conditional statements (if, elif, else).
 - Practice exercises and examples:
-  - Example: Automating a server shutdown if it's running out of disk space.
 
 ## Day 8: Working with Lists (Part 1)
 - Understanding lists and list data structure.
