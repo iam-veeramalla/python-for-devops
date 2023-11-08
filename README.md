@@ -60,7 +60,7 @@
 - List comprehensions.
 - Nested lists and advanced list operations.
 - Practice exercises and examples:
-  - Example: Parsing a complex configuration file with nested lists.
+  - Example: Print list of files in the list of folders provided
 
 ## Day 11: Working with Dictionaries and Sets
 - Dictionaries and key-value pairs.
