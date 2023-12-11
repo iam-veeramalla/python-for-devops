@@ -95,12 +95,8 @@
 - Practice exercises and examples:
   - Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
 
-## Day 16: Automation with Cron Jobs
-- Scheduling automated tasks using cron.
-- Creating Python scripts for scheduled automation.
-- Handling periodic tasks and reports.
-- Practice exercises and examples:
-  - Example: Using cron and Python to schedule regular backups of your data.
+## Day 16: Python Interview Questions & Answers
+- Beginner and intermediate Level
 
 ## Day 17: Python Interview Questions & Answers
-
+- Advanced Level
