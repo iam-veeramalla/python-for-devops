@@ -57,8 +57,7 @@
   - Example: Automating a log file analysis with a loop to find errors.
 
 ## Day 10: Working with Lists (Part 2)
-- List comprehensions.
-- Nested lists and advanced list operations.
+- Advanced list operations.
 - Practice exercises and examples:
   - Example: Print list of files in the list of folders provided
 
@@ -79,7 +78,7 @@
 - AWS automation with Boto3.
 - Managing EC2 instances, S3 buckets, and more.
 - Practice exercises and examples:
-  - Example: Creating a aws script for deploying applications to remote servers.
+  - Example: Creating a python script using boto3 to implement serverless functions.
 
 ## Day 14: Github-JIRA intergration Project - (Project-4)
 - Introduction to RESTful APIs.
