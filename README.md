@@ -62,45 +62,41 @@
 - Practice exercises and examples:
   - Example: Print list of files in the list of folders provided
 
-## Day 11: Working with Dictionaries and Sets
+## Day 11: Working with Dictionaries and Sets (Project-1)
 - Dictionaries and key-value pairs.
 - Sets and set operations.
 - Practice exercises and examples:
   - Example: Managing a dictionary of server configurations and optimizing retrieval.
 
-## Day 12: Python Tasks for DevOps (Part 1) - File Operations
+## Day 12: Python Tasks for DevOps (Part 1) - File Operations (Project-2)
 - Introduction to File Operations and Boto3.
 - Automating File operations.
 - Practice exercises and examples:
   - Example: Update a server resources in the server.conf file up on external notification.
 
-## Day 13: Python Tasks for DevOps (Part 2)
+## Day 13: Python Tasks for DevOps (Part 2) (Project-3)
 - Using Fabric for remote task automation.
 - AWS automation with Boto3.
 - Managing EC2 instances, S3 buckets, and more.
 - Practice exercises and examples:
   - Example: Creating a python script using boto3 to implement serverless functions.
 
-## Day 14: Working with RESTful APIs
+## Day 14: Github-JIRA intergration Project - (Project-4)
 - Introduction to RESTful APIs.
 - Making HTTP requests using Python.
 - Parsing JSON responses and error handling.
 - Practice exercises and examples:
-  - Example: Developing a script to monitor RESTful API endpoints for your DevOps tools.
+  - Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
 
-## Day 15: Data Serialization and Configuration Files
-- Serializing and deserializing data (JSON, YAML).
-- Managing configuration data.
-- DevOps use cases for configuration files.
+## Day 15: Github-JIRA intergration Project - (Project-4) - (Part-2)
+- Introduction to Flask.
+- Write your first API in python.
+- How to handle API calls and deploy your API to a server.
 - Practice exercises and examples:
-  - Example: Building a configuration manager to handle application settings in JSON format.
+  - Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
 
-## Day 16: Automation with Cron Jobs
-- Scheduling automated tasks using cron.
-- Creating Python scripts for scheduled automation.
-- Handling periodic tasks and reports.
-- Practice exercises and examples:
-  - Example: Using cron and Python to schedule regular backups of your data.
+## Day 16: Python Interview Questions & Answers
+- Beginner and intermediate Level
 
 ## Day 17: Python Interview Questions & Answers
-
+- Advanced Level
