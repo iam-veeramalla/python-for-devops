@@ -21,9 +21,9 @@
   - Example: Using variables to store and manipulate configuration data in a DevOps context.
 
 ## Day 4: Functions, Modules and Packages
-- What are differences between function, modules and packages ?
-- How to import a package ?
-- What are Python workspaces ?
+- What are differences between function, modules and packages?
+- How to import a package?
+- What are Python workspaces?
 
 ## Day 5: Environment Variables and Command Line Arguments
 - Reading and writing environment variables in Python.
@@ -81,7 +81,7 @@
 - Practice exercises and examples:
   - Example: Creating a aws script for deploying applications to remote servers.
 
-## Day 14: Github-JIRA intergration Project - (Project-4)
+## Day 14: Github-JIRA integration Project - (Project-4)
 - Introduction to RESTful APIs.
 - Making HTTP requests using Python.
 - Parsing JSON responses and error handling.
@@ -91,7 +91,7 @@
 ## Day 15: Github-JIRA intergration Project - (Project-4) - (Part-2)
 - Introduction to Flask.
 - Write your first API in python.
-- How to handle API calls and deploy your API to a server.
+- How to handle API calls and deploy your API to a server?
 - Practice exercises and examples:
   - Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
 
