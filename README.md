@@ -57,8 +57,7 @@
   - Example: Automating a log file analysis with a loop to find errors.
 
 ## Day 10: Working with Lists (Part 2)
-- List comprehensions.
-- Nested lists and advanced list operations.
+- Advanced list operations.
 - Practice exercises and examples:
   - Example: Print list of files in the list of folders provided
 
