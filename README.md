@@ -79,7 +79,7 @@
 - AWS automation with Boto3.
 - Managing EC2 instances, S3 buckets, and more.
 - Practice exercises and examples:
-  - Example: Creating a aws script for deploying applications to remote servers.
+  - Example: Creating a python script using boto3 to implement serverless functions.
 
 ## Day 14: Github-JIRA intergration Project - (Project-4)
 - Introduction to RESTful APIs.
