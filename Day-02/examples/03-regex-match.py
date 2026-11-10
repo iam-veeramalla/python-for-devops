@@ -1,9 +1,9 @@
 import re
 
-text = "The quick brown fox"
-pattern = r"quick"
+a = "The quick brown fox"
+b = r"quick"
 
-match = re.match(pattern, text)
+match = re.match(b, a)
 if match:
     print("Match found:", match.group())
 else:
